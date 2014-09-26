@@ -6,7 +6,7 @@ Basic VR WebGL scene built using three.js for use in VR enabled browsers.  This 
 
 ### Viewing this example
 
-This example is best viewed using a VR enabled broser.   The standard versions of these browsers also work, but you will not get the stereo rendering.
+This example is best viewed using a VR enabled browser.   The standard versions of these browsers also work, but you will not get the stereo rendering.
 
 Download Firefox VR enabled builds here:
 ```
