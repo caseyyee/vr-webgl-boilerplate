@@ -1,7 +1,7 @@
 ## VR WebGL boilerplate example built using three.js
--------
 
-Basic VR WebGL scene built using three.js for use in VR enabled browsers.  
+Basic VR WebGL scene built using three.js for use in VR enabled browsers.  This also includes a client library for integration with  [JAVRIS](https://github.com/potch/JAVRIS "JAVRIS") inline link.
+.
 
 ### Viewing this example
 
