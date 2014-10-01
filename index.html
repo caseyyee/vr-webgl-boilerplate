@@ -74,6 +74,14 @@
 				
 				// announce to JAVRIS host that we are ready to go.
 				VRClient.ready();
+
+
+				// accounce to JAVRIS host when you are done with this scene.  
+				// If this is part of a VRSequence, this will tell JAVRIS to move onto the next scene.
+				
+				// setTimeout( function() {
+				// 	VRClient.ended(); 
+				// }, 5000)
 				
 				window.addEventListener( 'resize', onWindowResize, false );
 				window.addEventListener( 'keypress', onKey, true);
